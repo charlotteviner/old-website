@@ -1,5 +1,5 @@
 ---
-title: Online Portfolio
+title: Project
 ---
 
 # Project
