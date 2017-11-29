@@ -4,6 +4,6 @@ title: About Me
 
 ## About Me
 
-![Photo of me](https://charlotteviner.github.io/images/profilephoto.jpg)
+![Photo of me](https://charlotteviner.github.io/images/profilephoto.png)
 
 I am a postgraduate student at the University of Leeds studying for a MSc in River Basin Dynamics and Management with Geographical Information Systems.
