@@ -12,4 +12,6 @@ Charlotte Viner
 
 Online portfolio of work undertaken using Python.
 
+[Practical](https://charlotteviner.github.io/practical.html)
+
 [Project](https://charlotteviner.github.io/index2.html)
