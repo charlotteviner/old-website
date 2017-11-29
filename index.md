@@ -4,9 +4,11 @@ title: Home
 
 Charlotte Viner
 
-*Master's student at the University of Leeds*
+<span style = "color:blue">I am a postgraduate student at the University of Leeds studying for a MSc in River Basin Dynamics and Management with Geographical Information Systems.</span>
 
-<a href="https://twitter.com/charlotteviner" target ="_blank" style="text-align:center">Twitter</a>
+![Photo of me](https://charlotteviner.github.io/images/profilephoto.jpg)
+
+<p style="text-align:center"><a href="https://twitter.com/charlotteviner" target ="_blank">Twitter</a></p>
 
 [About Me](https://charlotteviner.github.io/aboutme.html)
 
