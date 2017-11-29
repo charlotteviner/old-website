@@ -2,11 +2,8 @@
 title: Online Portfolio
 ---
 
-# Online Portfolio
+# Project
 
-Charlotte Viner
+*Python project*
 
-*Master's student at the University of Leeds*
-
-
-Online portfolio of work undertaken using Python.
+Project looking at catchment areas.
