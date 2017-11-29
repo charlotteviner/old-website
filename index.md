@@ -6,7 +6,7 @@ Charlotte Viner
 
 *Master's student at the University of Leeds*
 
-<p><a href = "https://twitter.com/charlotteviner" target = "blank">Twitter</a><p>
+<p><a href = "https://twitter.com/charlotteviner" target = "_blank">Twitter</a><p>
 
 [About Me](https://charlotteviner.github.io/aboutme.html)
 
