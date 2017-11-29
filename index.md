@@ -12,6 +12,6 @@ Charlotte Viner
 
 <span style = "color:blue">I am a postgraduate student at the University of Leeds studying for a MSc in River Basin Dynamics and Management with Geographical Information Systems.</span>
 
-<span style = "color:dark green">This is my online portfolio of work undertaken in Python as a part of one of my modules at the university. I have mainly focused on agent-based models, one created during the practical sessions and the other created independently.</span>
+<span style = "color:green">This is my online portfolio of work undertaken in Python as a part of one of my modules at the university. I have mainly focused on agent-based models, one created during the practical sessions and the other created independently.</span>
 
 ![Photo of me](https://charlotteviner.github.io/images/profilephoto.jpg)
