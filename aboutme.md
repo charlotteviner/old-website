@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-# About Me
+## About Me
 
 ![Photo of me](https://charlotteviner.github.io/profilephoto.jpg)
 
