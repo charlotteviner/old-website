@@ -5,8 +5,8 @@ title: Home
 Charlotte Viner
 
 <p style="text-align:center"><a href="https://twitter.com/charlotteviner" target ="_blank">Twitter</a></p>
-
-<h2><span style = "color:orange" font-family:"Verdana", Geneva, sans-serif>About Me</span></h2>
+serif
+<h2><span style = "color:orange">About Me</span></h2>
 
 <center><img src="https://charlotteviner.github.io/images/profilephoto.jpg" width="326" height="245" alt="Photo of Charlotte"></center>
 
@@ -17,6 +17,8 @@ This is my online portfolio of work undertaken in Python as a part of one of my 
 <h2><span style = "color:green">Projects</span></h2>
 
 ### [Practical](https://charlotteviner.github.io/practical.html)
+
+<h3><a span style = "color:green" href="https://charlotteviner.github.io/practical.html">Practical</a></h3>
 
 During the practicals on this module, I created an agent-based model to simulate sheep eating a landscape.
 
