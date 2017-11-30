@@ -8,7 +8,7 @@ Charlotte Viner
 
 ## About Me
 
-<p style="text-align:center"><img src="https://charlotteviner.github.io/images/profilephoto.jpg" width="326" height="245" alt="Photo of Charlotte"></p>
+<center><img src="https://charlotteviner.github.io/images/profilephoto.jpg" width="326" height="245" alt="Photo of Charlotte"></center>
 
 <span style = "color:blue">I am a postgraduate student at the University of Leeds studying for a MSc in River Basin Dynamics and Management with Geographical Information Systems.</span>
 
