@@ -6,7 +6,11 @@ Charlotte Viner
 
 <p style="text-align:center"><a href="https://twitter.com/charlotteviner" target ="_blank">Twitter</a></p>
 
-<h2><span style = "color:orange">About Me</span></h2>
+<a href="https://twitter.com/charlotteviner">
+  <img src="twitter.jpg" alt="Twitter" style="width:42px;height:42px;border:0;">
+</a>
+
+<h2><span style = "color:black">About Me</span></h2>
 
 <center><img src="https://charlotteviner.github.io/images/profilephoto.jpg" width="326" height="245" alt="Photo of Charlotte"></center>
 
