@@ -1,14 +1,11 @@
 ---
 title: Home
 ---
-
-Charlotte Viner
-
-<p style="text-align:center"><a href="https://twitter.com/charlotteviner" target ="_blank">Twitter</a></p>
-
 <a href="https://twitter.com/charlotteviner">
   <img src="https://charlotteviner.github.io/images/twitter.png" width="100" height="100" alt="Twitter">
 </a>
+
+Charlotte Viner
 
 <h2><span style = "color:black">About Me</span></h2>
 
