@@ -18,6 +18,4 @@ Charlotte Viner
 
 [Project](https://charlotteviner.github.io/index2.html)
 
-![Photo of me](https://charlotteviner.github.io/images/profilephoto.jpg)
-
 
