@@ -2,7 +2,7 @@
 title: Home
 ---
 <a href="https://twitter.com/charlotteviner">
-  <img src="https://charlotteviner.github.io/images/twitter.png" width="50" height="50" alt="Twitter">
+  <img src="https://charlotteviner.github.io/images/twitter.png" target="_blank" width="50" height="50" alt="Twitter">
 </a>
 
 Charlotte Viner
