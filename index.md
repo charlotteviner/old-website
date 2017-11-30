@@ -16,7 +16,12 @@ Charlotte Viner
 
 ## Projects
 
-### [Practical](https://charlotteviner.github.io/practical.html)
+### [Practical](https://charlotteviner.github.io/practical.html)<style>
+a:link {
+    color: green; 
+    background-color: transparent; 
+    text-decoration: none;
+} </style>
 
 During the practicals on this module, I created an agent-based model to simulate sheep eating a landscape.
 
