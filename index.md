@@ -6,7 +6,7 @@ Charlotte Viner
 
 <p style="text-align:center"><a href="https://twitter.com/charlotteviner" target ="_blank">Twitter</a></p>
 
-### About Me
+## About Me
 
 <center><img src="https://charlotteviner.github.io/images/profilephoto.jpg" width="326" height="245" alt="Photo of Charlotte"></center>
 
@@ -16,7 +16,7 @@ Charlotte Viner
 
 ## Projects
 
-<h3 style="text-align:right"><a href="https://charlotteviner.github.io/practical.html">Practical</a></h3>
+### [Practical](https://charlotteviner.github.io/practical.html)
 
 During the practicals on this module, I created an agent-based model to simulate sheep eating a landscape.
 
