@@ -14,8 +14,9 @@ Charlotte Viner
 
 <span style = "color:green">This is my online portfolio of work undertaken in Python as a part of one of my modules at the university. I have mainly focused on agent-based models, one created during the practical sessions and the other created independently.</span></col>
 
+</div>
+<div>
 <col><img src="https://charlotteviner.github.io/images/profilephoto.jpg" width="326" height="245" alt="Photo of Charlotte"></col>
-
 </div>
 
 [Practical](https://charlotteviner.github.io/practical.html)
