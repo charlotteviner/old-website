@@ -29,35 +29,53 @@
     display: table;
     clear: both;
 }
+        
+.outer, .inner {
+    display: inline-block;
+    position: relative;
+    float: left;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    overflow: visible;
+}
+        
+.outer {
+    min-width:150px;
+}
+        
+.inner {
+    width:326px;
+    height:245px;
+}
+        
     </style>
     
     <body>
         
-        <h1>Online Portfolio</h1>
-        <h3>Charlotte Viner</h3>
-        <a href="https://twitter.com/charlotteviner" target="_blank">
-            <img src="https://charlotteviner.github.io/images/twitter.png" width="50" height="50" alt="Twitter">
-        </a>
+        <center><h1>Online Portfolio</h1></center>
+        <center><h3>Charlotte Viner</h3></center>
+        <center><a href="https://twitter.com/charlotteviner" target="_blank">
+            <img src="https://charlotteviner.github.io/images/twitter.png" width="40" height="40" alt="Twitter">
+            </a></center>
+        <br>
+        <br>
         
         <h2>About Me</h2>
-        
         <div class="row">
             <div class="column left">
+                <div class='inner'>
                 <p><img src="https://charlotteviner.github.io/images/profilephoto.jpg" width="326" height="245" alt="Photo of Charlotte"></p>
+                </div>
             </div>
+            <br>
             <div class="column right">
                 <p>I am a postgraduate student at the University of Leeds studying for a MSc in River Basin Dynamics and Management with Geographical Information Systems.<br><br>This is my online portfolio of work undertaken in Python as a part of one of my modules at the university. I have mainly focused on agent-based models, one created during the practical sessions and the other created independently.</p>
             </div>
         </div>
-        
        
-        
-        
-        
-        <!--
-            Links to my projects
-        -->
-        
+        <br>
+        <br>
         <h2>Projects</h2>
         
         <h4><a span style = "color:green" href="https://charlotteviner.github.io/practical.html">Agent-Based Model</a></h4>
