@@ -40,10 +40,62 @@
         <h2>Advanced Skills: Individual Project</h2>
         
         <p>
-          Project.
+            This project aimed to create a new hydrology toolbar for ArcGIS which contained a simplified model for delineating catchments and calculating drainage areas. Another aim of the project was to provide the user with the option for alternative flow direction algorithms to be run within the model.
+
+        <h3>Components of the Project</h3>
+
+        <h4>Add-In Toolbar</h4>
+        
+        <p>
+            The toolbar contains two buttons which each contain models created in ModeBuilder. These models were exported to Python scripts and some additional features were added.
         </p>
 
-        <p>A repository of my practical work can be found <a href="https://github.com/charlotteviner/practicalportfolio" target="_blank"><u>here</u></a>.</p>
+        <h5>1 Determine Flowpaths</h5>
+
+        <p>
+            The 'Determine Flowpaths' button is the first in the two-step process to delineate a catchment. This script produces both a flow direction raster and a flow accumulation raster from a filled digital elevation model. An optional drop raster can also be created, and the option to apply a weight raster during calculation of flow accumulation is provided.
+        </p>
+
+        <h5>2 Delineate Catchment</h5>
+
+        <p>
+            The 'Delineate Catchment' button delineates a catchment from an interactively selected pour point. Multiple pour points can be selected if multiple catchment delineation is desired. Additional code was added to the script which calculates the area (in square kilometres) of each catchment polygon produced, and this is added to the attribute table(s) of the catchment(s).
+        </p>
+
+        <h6>Interactive Selection of Pour Points</h6>
+
+        <p>
+            To select the pour point location(s) when using the 'Delineate Catchment' script, simply click in the map window on a pixel of high flow accumulation that defines the outlet point of the catchment.
+        </p>
+
+        <h4>Flow Direction Script</h4>
+
+        <p>
+            The 'Flow Direction' script is a hand-coded version of the D8 flow direction algorithm (O'Callaghan and Mark, 1984). It is designed to assign values to cells using the same system that is used by the Arc 'Flow Direction' tool found in the Hydrology toolset of Spatial Analyst. This script produces a flow direction raster.
+            <br>
+            Originally, this script was going to contain an alternative flow direction algorithm, such as the Rho-8 (Fairfield and Leymarie, 1991) or D-infinity (Tarboton, 1997) algorithm, but these have yet to be developed.
+        </p>
+
+        <h3>Known Issues Which Need Resolving</h3>
+
+        <p>
+            All the issues listed below are still being resolved.
+            <br>
+            <li>The add-in toolbar does not always work when installed on different computers. Sometimes, the buttons in the toolbar just appear with a '[Missing]' alert, but the cause of this issue is unknown.</li>
+            <li>The arcpy.overwriteOutput function does not consistently work.</li>
+            <li>The algorithm in the 'Flow Direction' script is far from perfect and it not currently suitable for use in subsequent hydrological analysis. Issues include incorrect assignment of values and outputs with very large file sizes.</li>
+
+        <h3>References</h3>
+
+        <p>
+            Fairfield, J. and Leymarie, P. 1991. Drainage Networks From Grid Digital Elevation Models. Water Resources Research. 27(5), pp.709-717.
+            <br>
+            O'Callaghan, J. F. and Mark, D. M. 1984. The Extraction of Drainage Networks from Digital Elevation Data. Computer Vision, Graphics, and Image Processing. 28, pp.323-344.
+            <br>
+            Tarboton, D. G. 1997. A new method for determination of flow directions and upslope areas in grid digital elevation models. Water Resources Research. 33(2), pp.309-319.
+        </p>
+
+        <p>A repository of my practical work can be found <a href="https://github.com/charlotteviner/arc-project" target="_blank"><u>here</u></a>.</p>
 
     </body>
 </html>
